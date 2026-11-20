@@ -1,0 +1,1 @@
+Blink - Video window hider for Windows
