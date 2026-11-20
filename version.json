@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/rkfka9203-cell/HideToggle/releases/download/v2.2.0/Blink.exe",
-  "sha256": "1c0e26481d16c593167e5110aa89735c951340c0d2ef4c7fd931ef03c2fd7b97",
-  "notes": "첫 정식 배포"
+  "version": "2.2.1",
+  "url": "https://github.com/rkfka9203-cell/HideToggle/releases/download/v2.2.1/Blink.exe",
+  "sha256": "9df2105401c1d821f781dc27f9581cea6f255aea79a590a961ca749c12b4a830",
+  "notes": "자동 업데이트 테스트"
 }
